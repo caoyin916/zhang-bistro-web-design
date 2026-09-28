@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
       cnEl.textContent = cn;
       flagsEl.replaceChildren.apply(
         flagsEl,
-        Array.prototype.map.call(item.querySelectorAll(".pop-flag, .soldout-flag"), function (f) {
+        Array.prototype.map.call(item.querySelectorAll(".pop-flag"), function (f) {
           return f.cloneNode(true);
         })
       );

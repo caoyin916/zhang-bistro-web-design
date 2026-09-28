@@ -40,9 +40,6 @@ def item_html(item, photo):
     cls = 'menu-item'
     if item['popular']:
         flags += '<span class="pop-flag">Popular</span>'
-    if item['soldOut']:
-        flags += '<span class="soldout-flag">Sold Out</span>'
-        cls += ' is-sold-out'
     attrs = ''
     icon = ''
     if photo:

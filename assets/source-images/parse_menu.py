@@ -46,20 +46,18 @@ while i < n:
     i += 1
     price = None
     popular = False
-    sold_out = False
     while i < n and lines[i].startswith('Price:'):
         price = lines[i].replace('Price:', '').strip()
         i += 1
+    # "Sold Out" is the ordering site's stock status on the day of the scrape, not a menu fact — skip it.
     while i < n and lines[i] in ('Popular', 'Sold Out'):
         if lines[i] == 'Popular':
             popular = True
-        else:
-            sold_out = True
         i += 1
     if cur is not None and price:
         en = clean_name(name)
         cur['items'].append({'name': en, 'cn': CN_NAMES.get(en), 'price': price,
-                             'popular': popular, 'soldOut': sold_out})
+                             'popular': popular})
 
 missing = [it['name'] for c in categories for it in c['items'] if not it['cn']]
 used = {it['name'] for c in categories for it in c['items']}
