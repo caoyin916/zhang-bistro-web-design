@@ -18,10 +18,11 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // Menu category jump-nav active state
+  var jumpList = document.querySelector(".menu-jump-list");
   var jumpLinks = document.querySelectorAll(".menu-jump-list a");
   var categories = document.querySelectorAll(".menu-category");
 
-  if (jumpLinks.length && categories.length && "IntersectionObserver" in window) {
+  if (jumpList && categories.length && "IntersectionObserver" in window) {
     var map = {};
     jumpLinks.forEach(function (a) {
       map[a.getAttribute("href").replace("#", "")] = a;
@@ -37,7 +38,11 @@ document.addEventListener("DOMContentLoaded", function () {
               a.classList.remove("is-active");
             });
             link.classList.add("is-active");
-            link.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+            // Scroll only the pill bar; scrollIntoView would also drag the page back to the bar.
+            jumpList.scrollTo({
+              left: link.offsetLeft - (jumpList.clientWidth - link.offsetWidth) / 2,
+              behavior: "smooth"
+            });
           }
         });
       },
