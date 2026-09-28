@@ -1,0 +1,411 @@
+Appetizer (5)
+Rice not included. Order separately.米飯不包含在內
+Crab Rangoon(6)
+Price: $7.99
+Popular
+Egg Roll（1）
+Price: $1.99
+Popular
+Scallion Pancake
+Price: $6.99
+Edamame
+Price: $5.99
+Fried Shrimp（6）
+Price: $8.99
+Small Eats (6)
+Chili Oil Pork Dumplings（8）
+Price: $7.99
+Popular
+Boiled Pork Dumpling（8）
+Price: $7.99
+Sichuan Spicy Pork Wonton（8）
+Price: $8.99
+Pork Wontons In Clear Broth（8）
+Price: $8.99
+Sold Out
+Soup Pork Dumplings（7）
+Price: $8.99
+Pan-Fried Pork Dumpling（8）
+Price: $9.99
+Cold Dish (6)
+Spicy Beef & Tripe In Chili Oil
+Price: $16.99
+Popular
+Eggplant w.Sichuan Pepper Sauce
+Price: $9.99
+Preserved Egg w.Spicy Pepper
+Price: $12.99
+Sliced Pork Belly w.Garlic Sauce
+Price: $11.99
+Smashed Cucumber Salad
+Price: $8.99
+Sichusn-Style Liangfen
+Price: $8.99
+Soup (5)
+Seafood Soup
+Price: $12.99
+West Lake Beef Soup
+Price: $12.99
+Wonton Soup
+Price: $8.99
+Sold Out
+Egg Drop Soup
+Price: $10.99
+Hot & Sour Soup
+Price: $10.99
+Popular
+Noodles/Rice (13)
+Beef Noodle Soup
+Price: $14.99
+Seafood Noodle Soup
+Price: $14.99
+Sichuan Style Braised Beef Noodle Soup
+Price: $14.99
+Spicy & Sour Rice Noodles
+Price: $14.99
+Signature Chow Mein
+Price: $12.99
+Vegetable Chow Mein
+Price: $11.99
+Signature Fried Rice
+Price: $12.99
+Popular
+Vegetable Fried Rice
+Price: $11.99
+Popular
+Signature Stir-Fried Rice Noodles
+Price: $12.99
+Vegetable Stir-Fried Rice Noodles
+Price: $11.99
+Seafood Pineapple Fried Rice
+Price: $14.99
+Stir-Fried Wide Rice Noodles
+Price: $14.99
+Dan Dan Noodles
+Price: $8.99
+Beef (13)
+Beef w.Bean Curd
+Price: $21.99
+Spicy Boiled Beef
+Price: $21.99
+Kung Pao Beef
+Price: $18.99
+Beef Broccoli
+Price: $18.99
+Popular
+Beef In Garlic Sauce
+Price: $18.99
+Pepper Steak
+Price: $18.99
+Mushroom Beef
+Price: $18.99
+Hunan Beef
+Price: $18.99
+Cumin Beef
+Price: $20.99
+Mongolian Beef
+Price: $18.99
+Hunan-Style Stir-Fried Beef
+Price: $20.99
+Spicy Diced Beef
+Price: $20.99
+Stir-fried Beef w.Scallions
+Price: $20.99
+Lamb (3)
+Stir-Fried Lamb w.Scallion
+Price: $21.99
+Dry Pot Lamb
+Price: $24.99
+Cumin Lamb
+Price: $21.99
+Popular
+Chicken (13)
+General Tso's Chicken
+Price: $14.99
+Popular
+Sweet & Sour Chicken
+Price: $14.99
+Chicken w.Cashew Nut
+Price: $14.99
+Chicken Broccoli
+Price: $13.99
+Orange Chicken
+Price: $14.99
+Popular
+Hunan Chicken
+Price: $13.99
+Green Bean Chicken
+Price: $14.99
+Kung Pao Chicken
+Price: $14.99
+Sesame Chicken
+Price: $14.99
+Cumin Chicken
+Price: $14.99
+Mushroom Chicken
+Price: $14.99
+Chicken In Garlic Sauce
+Price: $14.99
+Chongqing Spicy Chicken
+Price: $17.99
+Popular
+Duck (5)
+Sichuan-style Poachedroasted Duck
+Price: $32.99
+Half Peking Duck
+Price: $25.98
+Whole Peking Duck
+Price: $51.98
+Dry Pot Beer Duck
+Price: $20.99
+Dry Pot Duck Head
+Price: $18.99
+Pork (14)
+Hunan-Style Stir-Fried Pork
+Price: $18.99
+Popular
+Hunan-Stye Stir-Fried Bamboo Shoot
+Price: $18.99
+Salt & Pepper Pork Ribs
+Price: $17.99
+Spicy Pork Ribs
+Price: $17.99
+Sweet & Sour Pork Ribs
+Price: $17.99
+Mao's Braised Pork
+Price: $18.99
+Spicy Noodles w.Minced Meat
+Price: $14.99
+Shredded Pork w.Sweet Bean Sauce
+Price: $14.99
+Pork Intestines w.Bean Curd
+Price: $18.99
+Stir-Fried Pork Kidney
+Price: $18.99
+Sold Out
+Shredded Pork w.Garlic Sauce
+Price: $14.99
+Dried Tofu & Shredded Pork
+Price: $16.99
+Pickled Pork Tripe
+Price: $19.99
+Pickled Pepper Pork Tripe
+Price: $19.99
+Cured Meats (3)
+Bamboo w.Cured Meat
+Price: $19.99
+Sold Out
+Stir-Fried Cured Meat w.Green Bell Pepper
+Price: $19.99
+Sold Out
+Sautéed Cauliflower w.Cured Meat
+Price: $19.99
+Tofu (8)
+Stir-Fried Dried Tofu
+Price: $16.99
+Mapo Tofu
+Price: $13.99
+Popular
+Dry Pot Shredded Tofu
+Price: $18.99
+General Tso's Tofu
+Price: $13.99
+Salt & Pepper Tofu
+Price: $13.99
+Sesame Tofu
+Price: $13.99
+Dry Spicy Crispy Tofu
+Price: $13.99
+Kung Pao Tofu
+Price: $13.99
+Vegetable (11)
+Dry Pot Cauliflower
+Price: $16.99
+Dry Pot Shredded Cabbage
+Price: $13.99
+Eggplant In Garlic Sauce
+Price: $13.99
+Dry-Fried Green Beans
+Price: $14.99
+Popular
+Hot & Sour Shredded Potatoes
+Price: $13.99
+Sautéed Potato, Eggplant & Green Beans
+Price: $14.99
+Stir-Fried Bok Choy w.Shiitake Mushrooms
+Price: $14.99
+Stir-Fried Egg & Tomato
+Price: $14.99
+Chinese Broccoli In Oyster Sauce
+Price: $14.99
+Stir-Fried Pea Shoots w.Garlic
+Price: $16.98
+Popular
+Stir-Fried Water Spinach w.Garlic
+Price: $15.99
+Chef Special (16)
+Spicy Grilled Live Fish
+Price: $42.99
+Garlic Grilled Live Fish
+Price: $42.99
+Pickled Pepper Grilled Live Fish
+Price: $42.99
+Mala Grilled Live Fish
+Price: $42.99
+Tomato Grilled Live Fish
+Price: $42.99
+Griddle Fish Fillet
+Price: $33.99
+Spicy Blood Curd & Tripe Stew
+Price: $26.99
+Braised Pork w.Preserved Vegetable
+Price: $16.99
+Twice-Cooked Pork
+Price: $15.99
+Popular
+Sour Soup Beef
+Price: $27.99
+Pickled Pepper Fresh Frog(Large)
+Price: $50.99
+Cumin Lamb.
+Price: $21.99
+Fried Shrimp w.Salt & Pepper
+Price: $21.99
+Green Pepper Spicy Fish
+Price: $42.99
+Xiaoxiang Pig's Feet
+Price: $19.99
+Dry Fried Pork Intestines
+Price: $18.99
+Dry Hot Pot (5)
+Spicy Squid Dry Hot Pot
+Price: $23.99
+Spicy Pork Intestine Dry Hot Pot
+Price: $26.99
+Spicy Sliced Beef Dry Hot Pot
+Price: $26.99
+Spicy Frog Dry Hot Pot.
+Price: $49.99
+Spicy Combination Dry Hot Pot
+Price: $25.99
+Seafood (17)
+Fish Fillet w.Pickled Mustard Greens
+Price: $21.99
+Sweet & Sour Fish Fillet
+Price: $21.99
+Fish Fillet w.Bean Curd
+Price: $21.99
+Salt & Pepper Fish Fillet
+Price: $21.99
+Boiled Fish Fillet
+Price: $21.99
+Spicy Fish Fillet
+Price: $21.99
+Popular
+Fish Fillet In Hot Chili Oil
+Price: $21.99
+Sesame Shrimp
+Price: $20.99
+General Tso's Shrimp
+Price: $20.99
+Orange Shrimp
+Price: $20.99
+Walnut Shrimp
+Price: $20.99
+Stir-Fried Shell-Less Shrimp
+Price: $19.99
+Spicy Shrimp
+Price: $21.99
+Frog w.Chili Sauce(Large)
+Price: $50.99
+Frog w.Pickled Peppers(Large)
+Price: $50.99
+Cumin Squid
+Price: $20.99
+Salt & Pepper Squid
+Price: $20.99
+Snakehead Fish Fillets (4)
+Sichuan Peppercorn Snakehead Fish Slices
+Price: $31.99
+Pickled Mustard Greens Snakehead Fish Slices
+Price: $31.99
+Boiled Snakehead Fish Slices
+Price: $31.99
+Hot Chili Oil Snakehead Fish Slices
+Price: $31.99
+Live Fish (9)
+Dry-Fried Fish
+Price: $42.99
+Spicy Szechuan Peppercorn Fish
+Price: $42.99
+Fish w.Pickled Mustard Greens
+Price: $42.99
+Spicy Grilled Fish
+Price: $42.99
+Mala Grilled Fish
+Price: $42.99
+Garlic Sauce Grilled Fish
+Price: $42.99
+Paper-Wrappedfish
+Price: $49.99
+Fish In Hot Chili Oil
+Price: $42.99
+Fish w.Spicy Bean Sauce
+Price: $42.99
+Side Order (4)
+White Rice
+Price: $0.99
+Popular
+Hot Chili Oil
+Price: $0.50
+Popular
+Dessert (4)
+Brown Sugar Glutinous Rice Cake(6)
+Price: $8.99
+Chengdu Ice Powder
+Price: $7.99
+Sesame Balls（8）
+Price: $7.99
+Sweet Rice Balls In Rice Wine Soup
+Price: $13.99
+Beverages (17)
+Coke
+Price: $1.99
+Diet Coke
+Price: $1.99
+Dr.Pepper
+Price: $1.99
+Sprite
+Price: $1.99
+Bottle Water
+Price: $1.99
+Yeos Soymilk
+Price: $2.59
+Sold Out
+Red Bull
+Price: $3.00
+Sold Out
+Can Sodas
+Price: $1.99
+Sold Out
+Sour Plum Drink
+Price: $3.59
+Green Tea
+Price: $3.59
+Sold Out
+Jasmine Tea
+Price: $3.59
+Hot Tea
+Price: $3.00
+Lemonade
+Price: $3.59
+Sold Out
+Wang Lao Ji
+Price: $2.59
+Coconut Mlik
+Price: $2.59
+Sold Out
+Orange Soda
+Price: $1.99
+Unsweet Tea
+Price: $3.59

@@ -1,0 +1,7 @@
+__pycache__/
+.playwright-mcp/
+
+# Research screenshots of third-party sites, not project assets
+assets/source-images/hansnoodle-*.png
+assets/source-images/zhangsbistro-full.png
+assets/source-images/mealkeyway-menu.png
